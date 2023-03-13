@@ -1,6 +1,6 @@
 # My Repo
 
-** Eric Kim Github Repo*
+** Eric Kim Github Repo**
 
 The purpose of this repo is to exhibit the skills I learn throughout Stats 220.
 
@@ -10,4 +10,7 @@ The purpose of this repo is to exhibit the skills I learn throughout Stats 220.
 
 -*[My index html](https://erick1m.github.io/stats220/)*
 
+Hope this helps 
+
+![](https://joemcmenamin.com/wp-content/uploads/2015/12/kia-ora-design-e1506894629972-725x1025.jpg)
 
