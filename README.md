@@ -1,6 +1,6 @@
 # My Repo
 
-** Eric Kim Github Repo**
+**Eric Kim Github Repo**
 
 ![](https://joemcmenamin.com/wp-content/uploads/2015/12/kia-ora-design-e1506894629972-725x1025.jpg)
 
