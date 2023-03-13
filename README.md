@@ -12,6 +12,6 @@ The purpose of this repo is to exhibit the skills I learn throughout Stats 220.
 
 -*[My index html](https://erick1m.github.io/stats220/)*
 
-Hope this helps 
+### Hope this helps!
 
 
