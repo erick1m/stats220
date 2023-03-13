@@ -2,6 +2,8 @@
 
 ** Eric Kim Github Repo**
 
+![](https://joemcmenamin.com/wp-content/uploads/2015/12/kia-ora-design-e1506894629972-725x1025.jpg)
+
 The purpose of this repo is to exhibit the skills I learn throughout Stats 220.
 
 ## Links
@@ -12,5 +14,4 @@ The purpose of this repo is to exhibit the skills I learn throughout Stats 220.
 
 Hope this helps 
 
-![](https://joemcmenamin.com/wp-content/uploads/2015/12/kia-ora-design-e1506894629972-725x1025.jpg)
 
